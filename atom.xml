@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jidianittd.github.io/</id>
+    <title>极电IT团队</title>
+    <updated>2022-09-19T01:44:29.641Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jidianittd.github.io/"/>
+    <link rel="self" href="https://jidianittd.github.io/atom.xml"/>
+    <logo>https://jidianittd.github.io/images/avatar.png</logo>
+    <icon>https://jidianittd.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 极电IT团队</rights>
+    <entry>
+        <title type="html"><![CDATA[咩咩咩咩咩咩咩咩咩咩]]></title>
+        <id>https://jidianittd.github.io/post/mie-mie-mie-mie-mie-mie-mie-mie-mie-mie/</id>
+        <link href="https://jidianittd.github.io/post/mie-mie-mie-mie-mie-mie-mie-mie-mie-mie/">
+        </link>
+        <updated>2022-09-18T23:13:08.000Z</updated>
+        <content type="html"><![CDATA[<p>咩咩咩咩咩咩咩咩咩咩</p>
+]]></content>
+    </entry>
+</feed>
